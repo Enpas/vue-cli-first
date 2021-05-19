@@ -17,6 +17,7 @@ export default {
 <style scoped>
 
 header {
+  position: relative;
   margin: 0 0 50px 0;
 }
 
